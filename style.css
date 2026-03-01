@@ -1,0 +1,66 @@
+ #baslik{
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  font-size: 70px;
+  color: white;
+}
+
+#indir{
+    width: 30%;
+    height: auto;
+    background-color: rgb(16, 187, 16);
+    font-family: "Cascadia Mono", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    padding: 40px;
+    font-size: 25px;
+}
+
+#ilk_resim{
+    max-width: 100%;
+    width: 600px;
+}
+
+#ikinci_baslik{
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 150px;
+    color: red;
+}
+
+body{
+    background-color: black;
+}
+
+.goruntuler{
+    width: 600px;
+    margin-left: 35px;
+}
+
+#ucuncu_baslik{
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    font-size: 100px;
+}
+
+button{
+    margin-bottom: 200px;
+}
+
+#imza{
+  font-family: "Borel", cursive;
+  font-weight: 400;
+  font-style: normal;
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  color: white;
+}
